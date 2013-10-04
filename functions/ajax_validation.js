@@ -674,7 +674,10 @@ function copyit(theField) {
 	tempval.select()
 }
 /*UPLOADER*/
-function createUploader(){            
+function createUploader(){
+
+  if (document.getElementById('TS_uploader') !== null) {
+ 
 	var uploader = new qq.FileUploader({
 		element: document.getElementById('TS_uploader'),
         action: document.URL,		
@@ -716,6 +719,7 @@ function createUploader(){
 		}
 	});
 	
+  } // end if
 }
 // in your app create uploader as soon as the DOM is ready
 // don't wait for the window to load  
