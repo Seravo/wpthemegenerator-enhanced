@@ -12,6 +12,31 @@
     <div class="bar_separate footer_separate"></div>
     <div class="lay_base content_shadow"></div>
     <div id="content" class="is_page">
+
+
+    <!-- if featured image exists, show it as header image -->
+  	<?php if ( has_post_thumbnail()) { ?>
+    <div class="sidebar_top" data-pos="top_2">
+			<div class="boxes boxcss_8 boxcss width_boxes_1">
+      <div class="container_widgets_pieces ">
+        <div class="widget_corner widget_top_left "><div class="widget_token_left "></div></div>
+        <div class="widget_topbottom widget_top_center "></div>
+        <div class="widget_corner widget_top_right "><div class="widget_token_right "></div></div>
+        <div class="widget_sides widget_middle_left "></div>
+        <div class="widget_center widget_content ">
+          <div class="textwidget">
+          <?php the_post_thumbnail( 'featured-large' ); ?>
+          </div>
+    		</div>
+	      <div class="widget_sides widget_middle_right "></div>
+		    <div class="widget_corner widget_bottom_left "></div>
+		    <div class="widget_topbottom widget_bottom_center "></div>
+		    <div class="widget_corner widget_bottom_right "></div>
+		  </div><!-- end container_widgets_pieces  -->
+  		<div class="widget_token_bottom "></div>
+	  </div><!-- end boxes -->			</div>
+  	<?php } ?>
+
     <?php get_template_part('sb1');?>
     	<div class="main_content">
 		<?php

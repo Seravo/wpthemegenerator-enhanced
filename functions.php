@@ -15,6 +15,7 @@ function wts_reset_get_option($var_get_option, $new_val){
 		return false;
 	}
 }
+/*
 function tg_notification_plugin(){
 	$get_plugins=get_plugins();
 	$gridlayout=$jqueryslider=false;
@@ -68,6 +69,7 @@ function tg_notification_plugin(){
 	endif;//detecting plugins
 }
 add_action('admin_notices', 'tg_notification_plugin');//mostra notification de plugins
+*/
 
 if(is_admin() && $pagenow == 'themes.php' && isset($_GET['activated']) && $_GET['activated'] == 'true'){
 	wts_reset_get_option($shortname.'_default_post_boxes', 'true');
@@ -2619,4 +2621,6 @@ get_template_part('functions/widgets');
 /* delete_lines mini */
 get_template_part('functions/prepare-file-system');
 /* end delete_lines mini */
+
+add_image_size( 'featured-large', 900, 474, true ); // Large Featured Image
 ?>
