@@ -1,0 +1,1401 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2011-11-08 12:13-0500\n"
+"PO-Revision-Date: 2012-05-17 17:43-0500\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;__\n"
+"X-Poedit-Basepath: C:\\Users\\Programador\\Documents\\xampp\\htdocs\\wpes\\wp-content\\themes\\wpthemegenerator_205293533124122252402102\\\n"
+"X-Poedit-Language: Spanish\n"
+"X-Poedit-Country: SPAIN\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: base_page_wts.php:23
+#: index.php:32
+#: page-accordion.php:19
+#: page-coin.php:19
+#: page-piecemaker.php:19
+#: page.php:17
+msgid "0 Comments"
+msgstr "0 Commentaires"
+
+#: base_page_wts.php:23
+#: index.php:32
+#: page-accordion.php:19
+#: page-coin.php:19
+#: page-piecemaker.php:19
+#: page.php:17
+msgid "1 Comment"
+msgstr "1 Commentaire"
+
+#: base_page_wts.php:23
+#: index.php:32
+#: page-accordion.php:19
+#: page-coin.php:19
+#: page-piecemaker.php:19
+#: page.php:17
+msgid "% Comments"
+msgstr "% Commentaires"
+
+#: base_page_wts.php:27
+#: index.php:36
+#: page-accordion.php:23
+#: page-coin.php:23
+#: page-piecemaker.php:23
+#: page.php:21
+msgid "By"
+msgstr "Pour"
+
+#: base_page_wts.php:27
+#: index.php:36
+#: page-accordion.php:23
+#: page-coin.php:23
+#: page-piecemaker.php:23
+#: page.php:21
+msgid "on "
+msgstr "dans "
+
+#: base_page_wts.php:30
+#: index.php:39
+#: page-accordion.php:26
+#: page-coin.php:26
+#: page-piecemaker.php:26
+#: page.php:24
+msgid "Read more"
+msgstr "Lire plus"
+
+#: comments.php:4
+msgid "No Responses"
+msgstr "Non Réponses"
+
+#: comments.php:4
+msgid "One Response"
+msgstr "Une réponse"
+
+#: comments.php:4
+msgid "% Responses"
+msgstr "% Réponses"
+
+#: comments.php:4
+msgid "to"
+msgstr "à"
+
+#: comments.php:14
+msgid "Be the first to comment."
+msgstr "Soyez le premier à commenter"
+
+#: contact.php:38
+msgid "You forgot to enter your name."
+msgstr "Vous avez oublié de saisir votre nom."
+
+#: contact.php:45
+msgid "You forgot to enter the subject."
+msgstr "Vous avez oublié de saisir votre sujet."
+
+#: contact.php:52
+msgid "You forgot to enter your email address."
+msgstr "Vous avez oublié de saisir votre addresse e-mail."
+
+#: contact.php:55
+msgid "You entered an invalid email address."
+msgstr "Vous avez entré une adresse email valide."
+
+#: contact.php:62
+msgid "You didn&acute;t type the captcha."
+msgstr "Vous ne saisissez pas le captcha"
+
+#: contact.php:65
+msgid "You entered an invalid captcha."
+msgstr "Vous avez entré une captcha valide."
+
+#: contact.php:72
+msgid "You forgot to enter your comments."
+msgstr "Vous avez oublié de saisir vos commentaires."
+
+#: contact.php:90
+msgid "You emailed a copy"
+msgstr "Vous envoyé une copie."
+
+#: contact.php:106
+msgid "Thanks"
+msgstr "Merci"
+
+#: contact.php:107
+msgid "Your email was successfully sent. I will be in touch soon."
+msgstr "Votre email a été envoyé avec succès. Je serai en contact bientôt."
+
+#: contact.php:112
+msgid "There was an error submitting the form."
+msgstr "Il y avait une erreur de soumettre le formulaire."
+
+#: contact.php:117
+msgid "Name"
+msgstr "Nom"
+
+#: contact.php:137
+msgid "Subject"
+msgstr "Sujet"
+
+#: contact.php:147
+msgid "Message"
+msgstr "Message"
+
+#: contact.php:163
+msgid "Enter the characters as seen on the image below (case sensitive):"
+msgstr "Entrez les caractères comme on le voit sur ​​l'image ci-dessous (sensible à la casse):"
+
+#: contact.php:179
+msgid "If you want to submit this form, do not enter anything in this field"
+msgstr "Si vous voulez envoyer ce formulaire, n'inscrivez rien dans ce champ."
+
+#: contact.php:191
+msgid "Send"
+msgstr "Envoyer"
+
+#: functions.php:148
+msgid "Options for"
+msgstr "Options pour"
+
+#: functions.php:154
+msgid "Styles"
+msgstr "Styles"
+
+#: functions.php:155
+msgid "Save changes"
+msgstr "Enreg. les modifications"
+
+#: functions.php:160
+msgid "Font Style"
+msgstr "Style de fonte:"
+
+#: functions.php:170
+msgid "Select the font scheme for the header tags"
+msgstr "Sélectionnez le jeu de fontes pour les titres"
+
+#: functions.php:174
+msgid "Slider type"
+msgstr "Type de slider"
+
+#: functions.php:183
+msgid "Select the slider you want to use on your site."
+msgstr "Sélectionnez le slider que vous souhaitez utiliser sur votre site"
+
+#: functions.php:201
+#: functions.php:221
+#: functions.php:241
+#: functions.php:252
+#: functions.php:268
+#: functions.php:284
+msgid "Slider Control"
+msgstr "Contrôler de slider"
+
+#: functions.php:184
+#: functions.php:285
+msgid "This slider will take data directly from the posts, please go to each post's edit page and check the 'Featured slider post' option."
+msgstr "Ce slider prendra des données directement à partir des articles, s&lsquo;il vous plaît aller à la page d&lsquo;édition de article poste et vérifier la option &lsquo;Slider de articles en vedette&lsquo;."
+
+#: functions.php:202
+#: functions.php:222
+#: functions.php:242
+#: functions.php:253
+#: functions.php:269
+msgid "Select the speed, effect and animation time of the slider."
+msgstr "Sélectionnez le temps de la vitesse, l&lsquo;effet et l&lsquo;animation du slider."
+
+#: functions.php:203
+#: functions.php:224
+#: functions.php:243
+#: functions.php:254
+#: functions.php:270
+msgid "Tween Type"
+msgstr "Type d&lsquo;interpolation"
+
+#: functions.php:204
+#: functions.php:244
+#: functions.php:255
+#: functions.php:287
+msgid "Animation speed"
+msgstr "Vitesse de l&lsquo;animation"
+
+#: functions.php:208
+#: functions.php:259
+msgid "Slider Effect"
+msgstr "Effet du slider"
+
+#: functions.php:232
+#: functions.php:279
+msgid "Delay in seconds"
+msgstr "Délai en secondes"
+
+#: functions.php:285
+msgid "Select the speed time of the slider."
+msgstr "Sélectionnez la vitesse de la transition"
+
+#: functions.php:288
+msgid "Uploader images"
+msgstr "Envoyer des images"
+
+#: functions.php:289
+msgid "Please enable JavaScript to use file uploader."
+msgstr "S'il vous plaît activer JavaScript pour utiliser fichier uploader."
+
+#: functions.php:290
+msgid "Upload a slider file"
+msgstr "Envoyer un fichier à le slider"
+
+#: functions.php:291
+msgid "save link"
+msgstr "enregistrer lien"
+
+#: functions.php:292
+msgid "Upload a logo file"
+msgstr "Envoyer un fichier de logo"
+
+#: functions.php:293
+msgid "Current logo"
+msgstr "Logo actuel"
+
+#: functions.php:294
+msgid "Choose your logo to upload"
+msgstr "Choisissez le logo que vous souhaitez Envoyer"
+
+#: functions.php:295
+msgid "Show the personalize menu in the front end"
+msgstr "Afficher le menu personnaliser à le front-end"
+
+#: functions.php:296
+msgid "Great Tool to customize your theme. shown on the frontpage when active"
+msgstr "Excellent outil pour personnaliser votre thème. Montré sur la première page quand il est actif"
+
+#: functions.php:304
+msgid "Custom Favicon"
+msgstr "Favicon personnalisée"
+
+#: functions.php:306
+msgid "A favicon is a 16x16 pixel icon that represents your site; paste the URL to a .ico image that you want to use as the image."
+msgstr "Un favicon est une icône de 16x16 pixels qui représente votre site; collez l'URL de l'image .ico à utiliser."
+
+#: functions.php:313
+msgid "Enter the link to the feedburner."
+msgstr "Entrez le lien du feedburner"
+
+#: functions.php:318
+msgid "Contact email"
+msgstr "E-mail de contact"
+
+#: functions.php:321
+msgid "Enter the e-mail where you want to receive incoming messages."
+msgstr "Entrez l'adresse e-mail où vous voulez vous envoyer des courriels de contacts."
+
+#: functions.php:324
+msgid "Featured Images pack"
+msgstr "Paquet d'Images En vedette"
+
+#: functions.php:333
+msgid "Select the images pack you want to use on your main pages of gallery, portfolio, product and service."
+msgstr "Sélectionnez les images que vous voulez paquet à utiliser sur vos pages principales de la galerie, portfolio, des produits et services."
+
+#: functions.php:338
+msgid "Facebook and Twitter<br /> follow pages"
+msgstr "Liens icônes sociaux"
+
+#: functions.php:360
+msgid "Enter the links of you facebook and twitter pages."
+msgstr "Entrez les liens de las pages de facebook et twitter"
+
+#: functions.php:365
+msgid "Featured presentation"
+msgstr "Présentation des articles en vedette"
+
+#: functions.php:366
+msgid "Choose an option"
+msgstr "Sélect. une opt."
+
+#: functions.php:367
+msgid "Columns number"
+msgstr "Nombre de cols."
+
+#: functions.php:368
+msgid "Font size"
+msgstr "Taille de la fonte"
+
+#: functions.php:369
+msgid "excerpt"
+msgstr "extrait"
+
+#: functions.php:370
+msgid "Your shortcode"
+msgstr "Votre shortcode"
+
+#: functions.php:371
+msgid "Shortcodes for Features and Testimonials."
+msgstr "Shortcodes pour Articles en vedette et témoignages."
+
+#: functions.php:372
+msgid "You can create sliders to show featured testimonials, products, gallery photos or portfolio works."
+msgstr "Puede crear sliders para mostrar testimoniales, productos, galerías o portafolios destacados."
+
+#: functions.php:373
+msgid "For featured posts, galleries, portfolios, products and/or services use this shortcodes: [featured-posts number=1 style=1] where \"posts\" can be changed for: \"galleries\" ( [featured-galleries number=1 style=1] ) \"portfolios\", \"products\" or services AND \"number\" is the quantity of items (max 5), \"style\" is the type of box to use. Remember to create the category \"Featured\" for each item."
+msgstr "Para entradas, galerías, portafolios, productos y/o servicios destacados puede usar estos shortcodes: [featured-posts number=1 style=1] donde \"posts\" puede ser cambiado por \"galleries\" , \"portfolios\", \"products\" o \"services\" y \"number\" es la cantidad máxima de items (5). \"style\" es el estilo de cajas que se pueden usar."
+
+#: functions.php:374
+msgid "For testimonials pls use: [testimonials number=1 stylebox=1 stylequote=1 quotecolor=gray] where number is the quantity of items to show and stylebox, stylequote and quotecolor the visual style of the testimonials. Remember to check the option featured in each testimonial."
+msgstr "Para testimoniales use: [testimonials number=1 stylebox=1 stylequote=1 quotecolor=gray] donde number es la cantidad de items a mostrar y stylebox, stylequote y quotecolor son los estilos visuales. Recuerde de checkear la opcion featured en cada testimonial."
+
+#: functions.php:375
+msgid "Testimonials Quotes"
+msgstr "Témoignage citations"
+
+#: functions.php:377
+msgid "Style type"
+msgstr "Typé de Style"
+
+#: functions.php:386
+msgid "Colors"
+msgstr "Couleurs"
+
+#: functions.php:396
+msgid "Select the quotes styles you want to use on your Testimonials page."
+msgstr "Sélectionnez les styles citations que vous souhaitez utiliser sur votre page des Témoignages."
+
+#: functions.php:400
+msgid "Menu Customization"
+msgstr "Personnalisation du menu"
+
+#: functions.php:402
+msgid "Main Menu"
+msgstr "Menu principal"
+
+#: functions.php:403
+msgid "Use this link to customize the items of your main menu."
+msgstr "Utilisez ce lien pour personnaliser vos options de menu."
+
+#: functions.php:417
+msgid "Footer"
+msgstr "Pied de page"
+
+#: functions.php:418
+msgid "General Information"
+msgstr "Informations Générales"
+
+#: functions.php:420
+msgid "You can write your company information in this area. This will be automatically added to the footer. Use &lt;br /&gt; to break lines"
+msgstr "Vous pouvez entrer des informations sur votre entreprise dans cette région."
+
+#: functions.php:424
+msgid "Google Analytics Code"
+msgstr "Code de Google Analytics"
+
+#: functions.php:426
+msgid "You can paste your Google Analytics or other tracking code in this box. This will be automatically added to the footer."
+msgstr "Vous pouvez placer votre code Google Analytics dans ce champ."
+
+#: functions.php:435
+msgid "Pages layout"
+msgstr "Conception de pages"
+
+#: functions.php:436
+msgid "Select the page you want to setup"
+msgstr "Sélectionnez la page que vous souhaitez configurer"
+
+#: functions.php:437
+msgid "Disable"
+msgstr "Désactivé"
+
+#: functions.php:438
+msgid "Enabled"
+msgstr "Activé"
+
+#: functions.php:439
+msgid "Add Sidebar"
+msgstr "Ajouter Sidebar"
+
+#: functions.php:440
+msgid "Top"
+msgstr "Supérieur"
+
+#: functions.php:441
+msgid "Bottom"
+msgstr "Basse"
+
+#: functions.php:442
+msgid "Name sidebar"
+msgstr "Nom du sidebar"
+
+#: functions.php:443
+msgid "add"
+msgstr "Ajouter"
+
+#: functions.php:444
+msgid "Select where you want top slider to be activated."
+msgstr "Sélectionnez l'emplacement où vous souhaitez activer le slider supérieur."
+
+#: functions.php:445
+msgid "Activate in"
+msgstr "Activer dans"
+
+#: functions.php:446
+msgid "Footer widget box style"
+msgstr "style boîte du widget pied de page"
+
+#: functions.php:447
+msgid "Reset"
+msgstr "Réinitialisation"
+
+#: functions.php:448
+msgid "Icons"
+msgstr "Icones"
+
+#: functions.php:639
+msgid "(Edit)"
+msgstr "(Éditer)"
+
+#: functions.php:653
+msgid "More post options"
+msgstr "Autres options de Articles"
+
+#: functions.php:663
+msgid "Featured Post:"
+msgstr "Article en vedette:"
+
+#: gallery.php:24
+msgid "Galleries"
+msgstr "Galeries"
+
+#: gallery.php:31
+msgid " Read More"
+msgstr " Lire plus"
+
+#: gallery.php:38
+msgid "All"
+msgstr "Tout"
+
+#: index.php:16
+msgid "Our Category: "
+msgstr "Notre Catégorie: "
+
+#: index.php:18
+msgid "Posts Tagged "
+msgstr "Articles étiquetés "
+
+#: index.php:20
+#: index.php:22
+#: index.php:24
+msgid "Archive for "
+msgstr "Ficher pour "
+
+#: index.php:26
+msgid "Author Archive"
+msgstr "Ficher de auteur"
+
+#: index.php:28
+msgid "Blog Archives"
+msgstr "Fichers de blog"
+
+#: portfolio.php:14
+msgid "Portfolio"
+msgstr "Portefeuille"
+
+#: product.php:14
+msgid "Products"
+msgstr "Produits"
+
+#: searchform.php:2
+msgid "Search..."
+msgstr "Chercher..."
+
+#: service.php:14
+msgid "Services"
+msgstr "Services"
+
+#: testimonial.php:18
+msgid "Testimonials"
+msgstr "Témoignages"
+
+#: functions/gallery.php:6
+msgid "Gallery Items"
+msgstr "Éléments Galerie"
+
+#: functions/gallery.php:7
+#: functions/gallery.php:121
+msgid "Gallery item"
+msgstr "Élément de galerie"
+
+#: functions/gallery.php:8
+#: functions/portfolio.php:8
+#: functions/product.php:8
+#: functions/service.php:8
+#: functions/testimonials.php:8
+msgid "Add New"
+msgstr "Ajouter nouveau"
+
+#: functions/gallery.php:9
+msgid "Add new gallery item"
+msgstr "Ajouter nouveau élément de galerie"
+
+#: functions/gallery.php:10
+msgid "Edit gallery item"
+msgstr "Editér élément de galerieélément de galerie"
+
+#: functions/gallery.php:11
+msgid "New gallery item"
+msgstr "Nouveau élément de galerie"
+
+#: functions/gallery.php:12
+msgid "View gallery item"
+msgstr "Voir élément de galerie"
+
+#: functions/gallery.php:13
+msgid "Search gallery items"
+msgstr "Chercher éléments de galerie"
+
+#: functions/gallery.php:14
+msgid "No gallery item found"
+msgstr "Aucun élément de la galerie ont trouvé"
+
+#: functions/gallery.php:15
+msgid "No gallery item found in trash"
+msgstr "Aucun élément de la galerie ont trouvé dans Corbeille."
+
+#: functions/gallery.php:40
+#: functions/gallery.php:122
+msgid "Gallery"
+msgstr "Galerie"
+
+#: functions/gallery.php:41
+msgid "Search Gallery"
+msgstr "Chercher Galerie"
+
+#: functions/gallery.php:42
+msgid "Popular Gallery"
+msgstr "Galerie populaire"
+
+#: functions/gallery.php:43
+msgid "All galleries"
+msgstr "Touds les galeries"
+
+#: functions/gallery.php:46
+msgid "Edit gallery"
+msgstr "Éditer galerie"
+
+#: functions/gallery.php:47
+msgid "Update gallery"
+msgstr "Mettre à jour galerie"
+
+#: functions/gallery.php:48
+msgid "Add new gallery"
+msgstr "Ajouter nouveau galerie"
+
+#: functions/gallery.php:49
+msgid "New gallery"
+msgstr "Nouveau Galerie"
+
+#: functions/gallery.php:50
+msgid "Separate galleries with commas"
+msgstr "Galeries séparées par des virgules"
+
+#: functions/gallery.php:51
+msgid "Add or remove galleries"
+msgstr "Ajouter ou supprimer galeries"
+
+#: functions/gallery.php:52
+msgid "Choose from the most used galleries"
+msgstr "Sélectionnez la galerie plus utilisée"
+
+#: functions/gallery.php:71
+msgid "Gallery options"
+msgstr "Options de la galerie"
+
+#: functions/gallery.php:84
+#: functions/portfolio.php:88
+#: functions/product.php:103
+#: functions/service.php:82
+msgid "Frame style:"
+msgstr "Style de cadre:"
+
+#: functions/gallery.php:94
+msgid "Featured Gallery:"
+msgstr "Galerie en vedette:"
+
+#: functions/gallery.php:96
+msgid "Item Caption:"
+msgstr "Étiquette:"
+
+#: functions/gallery.php:123
+#: functions/portfolio.php:127
+#: functions/product.php:142
+#: functions/service.php:113
+#: functions/testimonials.php:71
+msgid "Author"
+msgstr "Auteur"
+
+#: functions/gallery.php:124
+#: functions/portfolio.php:128
+#: functions/product.php:143
+#: functions/service.php:114
+#: functions/testimonials.php:72
+msgid "Date"
+msgstr "Date"
+
+#: functions/portfolio.php:6
+msgid "Portfolio Items"
+msgstr "Éléments portefeuille"
+
+#: functions/portfolio.php:7
+msgid "Portfolio Item"
+msgstr "Élément de portefeuille"
+
+#: functions/portfolio.php:9
+msgid "Add new portfolio item"
+msgstr "Ajouter nouveau portefeuille"
+
+#: functions/portfolio.php:10
+msgid "Edit portfolio item"
+msgstr "Éditer élément de portefeuille"
+
+#: functions/portfolio.php:11
+msgid "New portfolio item"
+msgstr "Nouveau élément de portefeuille"
+
+#: functions/portfolio.php:12
+msgid "View portfolio item"
+msgstr "Voir élément de portefeuille"
+
+#: functions/portfolio.php:13
+msgid "Search portfolio items"
+msgstr "Chercher éléments de portefeuille"
+
+#: functions/portfolio.php:14
+msgid "No portfolio item found"
+msgstr "Aucun élément du portefeuille trouvé"
+
+#: functions/portfolio.php:15
+msgid "No portfolio item found in trash"
+msgstr "Aucun élément du portefeuille trouvé dans Corbeille"
+
+#: functions/portfolio.php:39
+#: functions/portfolio.php:53
+msgid "Portfolios"
+msgstr "Portefeuilles"
+
+#: functions/portfolio.php:41
+msgid "Search Portfolio"
+msgstr "Chercher portefeuille"
+
+#: functions/portfolio.php:42
+msgid "Popular portfolio"
+msgstr "Portefeuille populaire"
+
+#: functions/portfolio.php:43
+msgid "All portfolios"
+msgstr "Toud les portefeuilles"
+
+#: functions/portfolio.php:46
+msgid "Edit portfolio"
+msgstr "Éditer portefeuille"
+
+#: functions/portfolio.php:47
+msgid "Update portfolio"
+msgstr "Mettre à jour portefeuille"
+
+#: functions/portfolio.php:48
+msgid "Add new portfolio"
+msgstr "Ajouter nouveau portefeuille"
+
+#: functions/portfolio.php:49
+msgid "New portfolio"
+msgstr "Nouveau portefeuille"
+
+#: functions/portfolio.php:50
+msgid "Separate portfolios with commas"
+msgstr "Séparé portefeuilles avec virgules"
+
+#: functions/portfolio.php:51
+msgid "Add or remove portfolios"
+msgstr "Ajouter ou supprimier portefeuilles"
+
+#: functions/portfolio.php:52
+msgid "Choose from the most used portfolios"
+msgstr "Sélectionnez le portefeuille plus populaire"
+
+#: functions/portfolio.php:74
+msgid "Portfolio Options"
+msgstr "Options du portefeuille"
+
+#: functions/portfolio.php:86
+msgid "Website URL:"
+msgstr "URL de site Web:"
+
+#: functions/portfolio.php:98
+msgid "Featured Portfolio:"
+msgstr "Portefeuille en vedette:"
+
+#: functions/portfolio.php:125
+msgid "Portfolio item title"
+msgstr "Titre élément du Portefeuille"
+
+#: functions/product.php:7
+msgid "Product Item"
+msgstr "Élément du produit"
+
+#: functions/product.php:9
+msgid "Add new product item"
+msgstr "Ajouter nouveau produit élément"
+
+#: functions/product.php:10
+msgid "Edit product item"
+msgstr "Éditer élément de produit"
+
+#: functions/product.php:11
+msgid "New product item"
+msgstr "Nouveau élément de produit"
+
+#: functions/product.php:12
+msgid "View product item"
+msgstr "Voir élément de produit"
+
+#: functions/product.php:13
+msgid "Search product items"
+msgstr "Chercher éléments de produit"
+
+#: functions/product.php:14
+msgid "No product item found"
+msgstr "Aucun produit trouvé"
+
+#: functions/product.php:15
+msgid "No product item found in trash"
+msgstr "Aucun produit trouvé dans Corbeille"
+
+#: functions/product.php:39
+#: functions/product.php:53
+msgid "Catalogs"
+msgstr "Catalogues"
+
+#: functions/product.php:40
+#: functions/product.php:141
+msgid "Catalog"
+msgstr "Catalogue"
+
+#: functions/product.php:41
+msgid "Search Catalog"
+msgstr "Chercher catalogue"
+
+#: functions/product.php:42
+msgid "Popular catalogs"
+msgstr "Catalogues populaires"
+
+#: functions/product.php:43
+msgid "All catalogs"
+msgstr "Toud les catalogues"
+
+#: functions/product.php:46
+msgid "Edit catalog"
+msgstr "Éditer catalogue"
+
+#: functions/product.php:47
+msgid "Update catalog"
+msgstr "Mettre à jour catalogue"
+
+#: functions/product.php:48
+msgid "Add new catalog"
+msgstr "Ajouter nouveau catalogue"
+
+#: functions/product.php:49
+msgid "New catalog"
+msgstr "Nouveau catalogue"
+
+#: functions/product.php:50
+msgid "Separate catalogs with commas"
+msgstr "Séparez Catalogues avec des virgules"
+
+#: functions/product.php:51
+msgid "Add or remove catalogs"
+msgstr "Ajouter ou supprimier catalogues"
+
+#: functions/product.php:52
+msgid "Choose from the most used catalogs"
+msgstr "Sélection des catalogues les plus utilisés"
+
+#: functions/product.php:74
+msgid "Product Options"
+msgstr "Options de produit"
+
+#: functions/product.php:88
+msgid "Payment Link:"
+msgstr "Lien de paiement:"
+
+#: functions/product.php:89
+msgid "Value:"
+msgstr "Valeur:"
+
+#: functions/product.php:90
+msgid "Currency:"
+msgstr "Monétaire:"
+
+#: functions/product.php:113
+msgid "Featured Product:"
+msgstr "Produit en vedette:"
+
+#: functions/product.php:140
+msgid "Product name"
+msgstr "Nom du produit"
+
+#: functions/service.php:7
+msgid "Service"
+msgstr "Service"
+
+#: functions/service.php:9
+msgid "Add new service item"
+msgstr "Ajouter nouveau élément de service."
+
+#: functions/service.php:10
+msgid "Edit service item"
+msgstr "Éditer élément de service"
+
+#: functions/service.php:11
+msgid "New service item"
+msgstr "Nouveau élément de service"
+
+#: functions/service.php:12
+msgid "View service item"
+msgstr "Voir élément de service"
+
+#: functions/service.php:13
+msgid "Search service items"
+msgstr "Chercher éléments de service"
+
+#: functions/service.php:14
+msgid "No service item found"
+msgstr "Aucun élément de service trouvé"
+
+#: functions/service.php:15
+msgid "No service item found in trash"
+msgstr "Aucun élément de service trouvé dans Corbeille"
+
+#: functions/service.php:39
+#: functions/service.php:53
+msgid "Brochures"
+msgstr "Brochures"
+
+#: functions/service.php:40
+msgid "Brochure"
+msgstr "Brochure"
+
+#: functions/service.php:41
+msgid "Search Brochure"
+msgstr "Chercher brochure"
+
+#: functions/service.php:42
+msgid "Popular brochures"
+msgstr "Brochures populaires"
+
+#: functions/service.php:43
+msgid "All brochures"
+msgstr "Toud les brochures"
+
+#: functions/service.php:46
+msgid "Edit brochure"
+msgstr "Éditer brochure"
+
+#: functions/service.php:47
+msgid "Update brochure"
+msgstr "Mettre à jour bochure"
+
+#: functions/service.php:48
+msgid "Add new brochure"
+msgstr "Ajouter nouveau brochure"
+
+#: functions/service.php:49
+msgid "New brochure"
+msgstr "Nouveau brochure"
+
+#: functions/service.php:50
+msgid "Separate brochures with commas"
+msgstr "Séparez brochures avec des virgules"
+
+#: functions/service.php:51
+msgid "Add or remove brochures"
+msgstr "Ajouter ou supprimier brochures"
+
+#: functions/service.php:52
+msgid "Choose from the most used brochures"
+msgstr "Sélectionnez les brochures fréquemment utilisés"
+
+#: functions/service.php:71
+msgid "Service Options"
+msgstr "Options de services"
+
+#: functions/service.php:92
+msgid "Featured Service:"
+msgstr "Service en vedette:"
+
+#: functions/service.php:111
+msgid "Service name"
+msgstr "Nom Service"
+
+#: functions/testimonials.php:7
+msgid "Testimonial"
+msgstr "Témoignage"
+
+#: functions/testimonials.php:9
+msgid "Add new testimonial"
+msgstr "Ajouter nouveau témoignage"
+
+#: functions/testimonials.php:10
+msgid "Edit testimonial"
+msgstr "Éditer témoignage"
+
+#: functions/testimonials.php:11
+msgid "New testimonial"
+msgstr "Nouveau témoignage"
+
+#: functions/testimonials.php:12
+msgid "View testimonial"
+msgstr "Voir témoignage"
+
+#: functions/testimonials.php:13
+msgid "Search testimonial"
+msgstr "Chercher témoignage"
+
+#: functions/testimonials.php:14
+msgid "No testimonial found"
+msgstr "Aucun témoignage trouvé"
+
+#: functions/testimonials.php:15
+msgid "No testimonial found in trash"
+msgstr "Aucun témoignage trouvé dans Corbeille"
+
+#: functions/testimonials.php:36
+msgid "Testimonial Options"
+msgstr "Options du témoignage"
+
+#: functions/testimonials.php:46
+msgid "Featured Testimonial:"
+msgstr "Témoignage en vedette"
+
+#: functions/testimonials.php:48
+msgid "Testimonial by:"
+msgstr "Témoignage pour:"
+
+#: functions/widgets.php:13
+msgid "Select the twitter account to show."
+msgstr "Sélectionnez le compte de twitter à utiliser"
+
+#: functions/widgets.php:19
+msgid "Shock Twitter"
+msgstr "Shock Twitter"
+
+#: functions/widgets.php:96
+msgid "Twitter feed"
+msgstr "Feed de Twitter"
+
+#: functions/widgets.php:96
+msgid "Twitter name"
+msgstr "Nom de Twitter"
+
+#: functions/widgets.php:100
+#: functions/widgets.php:186
+msgid "Title:"
+msgstr "Titre:"
+
+#: functions/widgets.php:106
+msgid "Twitter Name:"
+msgstr "Nom de Twitter"
+
+#: functions/widgets.php:112
+msgid "Number of tweets:"
+msgstr "Nombre de tweets"
+
+#: functions/widgets.php:134
+msgid "Select the facebook account to show."
+msgstr "Sélectionnez le compte de facebook à utiliser"
+
+#: functions/widgets.php:138
+msgid "Shock Facebook"
+msgstr "Shock Facebook"
+
+#: functions/widgets.php:179
+msgid "Facebook Activity"
+msgstr "Activité dans Facebook"
+
+#: functions/widgets.php:179
+msgid "facebook.com"
+msgstr "Facebook.com"
+
+#: functions/widgets.php:192
+msgid "Facebook account:"
+msgstr "Compte de Facebook"
+
+#: functions/widgets.php:198
+msgid "Box height:"
+msgstr "Hauteur de la boîte"
+
+#: functions/widgets.php:204
+msgid "Box width(Between 175px 250px):"
+msgstr "Hauteur de la boîte(entre 175px et 250px)"
+
+#: js/create_shortcodes/author_info.php:42
+msgid "Author Info:"
+msgstr "Informations sur l'auteur:"
+
+#: js/create_shortcodes/author_info.php:46
+msgid "Box Color:"
+msgstr "Couleur de la boîte:"
+
+#: js/create_shortcodes/author_info.php:49
+#: js/create_shortcodes/frame_img.php:50
+#: js/create_shortcodes/quotes.php:42
+#: js/create_shortcodes/tabbed.php:97
+#: js/create_shortcodes/testimonial.php:71
+#: js/create_shortcodes/toggled.php:48
+#: js/create_shortcodes/tooltip.php:44
+msgid "Blue"
+msgstr "Bleu"
+
+#: js/create_shortcodes/author_info.php:50
+#: js/create_shortcodes/tabbed.php:101
+#: js/create_shortcodes/toggled.php:52
+#: js/create_shortcodes/tooltip.php:45
+msgid "Red"
+msgstr "Rougue"
+
+#: js/create_shortcodes/author_info.php:51
+#: js/create_shortcodes/quotes.php:43
+#: js/create_shortcodes/tabbed.php:99
+#: js/create_shortcodes/testimonial.php:73
+#: js/create_shortcodes/toggled.php:50
+#: js/create_shortcodes/tooltip.php:46
+msgid "Gray"
+msgstr "Gris"
+
+#: js/create_shortcodes/author_info.php:52
+#: js/create_shortcodes/quotes.php:44
+#: js/create_shortcodes/tabbed.php:100
+#: js/create_shortcodes/toggled.php:51
+#: js/create_shortcodes/tooltip.php:47
+msgid "Green"
+msgstr "Vert"
+
+#: js/create_shortcodes/author_info.php:53
+#: js/create_shortcodes/tabbed.php:102
+#: js/create_shortcodes/toggled.php:53
+#: js/create_shortcodes/tooltip.php:48
+msgid "Teal"
+msgstr "Bleuâtre"
+
+#: js/create_shortcodes/author_info.php:54
+#: js/create_shortcodes/toggled.php:54
+msgid "White"
+msgstr "Blanc"
+
+#: js/create_shortcodes/author_info.php:55
+#: js/create_shortcodes/tabbed.php:98
+#: js/create_shortcodes/toggled.php:49
+#: js/create_shortcodes/tooltip.php:49
+msgid "Darkblue"
+msgstr "Bleu foncé"
+
+#: js/create_shortcodes/author_info.php:60
+msgid "Full Name:"
+msgstr "Nom complet"
+
+#: js/create_shortcodes/author_info.php:64
+msgid "Avatar url:"
+msgstr "Url avatar:"
+
+#: js/create_shortcodes/author_info.php:67
+msgid "Description:"
+msgstr "Description:"
+
+#: js/create_shortcodes/boxes.php:88
+msgid "Boxes:"
+msgstr "Boîtes:"
+
+#: js/create_shortcodes/boxes.php:92
+msgid "Style Boxes"
+msgstr "Styles de boîtes"
+
+#: js/create_shortcodes/boxes.php:97
+msgid "Box image"
+msgstr "Boîte d'image"
+
+#: js/create_shortcodes/boxes.php:114
+#: js/create_shortcodes/highlight.php:66
+#: js/create_shortcodes/quotes.php:50
+#: js/create_shortcodes/tabbed.php:133
+#: js/create_shortcodes/tabbed.php:150
+#: js/create_shortcodes/tabbed.php:167
+#: js/create_shortcodes/tabbed.php:183
+#: js/create_shortcodes/tabbed.php:199
+#: js/create_shortcodes/tabbed.php:215
+msgid "Text:"
+msgstr "Texte:"
+
+#: js/create_shortcodes/btns.php:64
+msgid "Buttons:"
+msgstr "Boutons:"
+
+#: js/create_shortcodes/btns.php:68
+msgid "Style Button"
+msgstr "Style du bouton"
+
+#: js/create_shortcodes/btns.php:72
+msgid "Round Buttons"
+msgstr "Boutons arrondir:"
+
+#: js/create_shortcodes/btns.php:77
+msgid "Size Button"
+msgstr "Taille du bouton"
+
+#: js/create_shortcodes/btns.php:95
+msgid "With"
+msgstr "Avec"
+
+#: js/create_shortcodes/featured.php:31
+msgid "Features:"
+msgstr "En vedette:"
+
+#: js/create_shortcodes/featured.php:35
+msgid "Features to display"
+msgstr "En vedette à afficher:"
+
+#: js/create_shortcodes/featured.php:39
+msgid "Posts"
+msgstr "Articles"
+
+#: js/create_shortcodes/featured.php:46
+#: js/create_shortcodes/testimonial.php:36
+msgid "Box style"
+msgstr "Style de la Boîte:"
+
+#: js/create_shortcodes/featured.php:56
+msgid "Image count"
+msgstr "Conteo de imagenes"
+
+#: js/create_shortcodes/frame_img.php:26
+#: js/create_shortcodes/tooltip.php:24
+msgid "Please specify some image"
+msgstr "S'il vous plaît donner une image"
+
+#: js/create_shortcodes/frame_img.php:43
+msgid "Frame Image:"
+msgstr "Image avec cadre:"
+
+#: js/create_shortcodes/frame_img.php:51
+msgid "Leather"
+msgstr "Cuir"
+
+#: js/create_shortcodes/frame_img.php:52
+msgid "Paper"
+msgstr "Papier"
+
+#: js/create_shortcodes/frame_img.php:53
+msgid "Pin"
+msgstr "Pin"
+
+#: js/create_shortcodes/frame_img.php:54
+msgid "Window"
+msgstr "Fenêtre"
+
+#: js/create_shortcodes/frame_img.php:59
+msgid "Image:"
+msgstr "Image:"
+
+#: js/create_shortcodes/highlight.php:24
+#: js/create_shortcodes/toggled.php:25
+msgid "Text here!"
+msgstr "Texte ici!"
+
+#: js/create_shortcodes/highlight.php:46
+msgid "Highlight:"
+msgstr "Mettez:"
+
+#: js/create_shortcodes/highlight.php:50
+msgid "Text Color:"
+msgstr "Couleur du texte:"
+
+#: js/create_shortcodes/highlight.php:55
+msgid "it can be the name or the color code of the"
+msgstr "Ce peut être le nom de la couleur ou le code"
+
+#: js/create_shortcodes/highlight.php:58
+msgid "Background Color:"
+msgstr "Couleur de fond:"
+
+#: js/create_shortcodes/highlight.php:62
+msgid "It can be the name or the color code of the"
+msgstr "Ce peut être le nom de la couleur ou le code"
+
+#: js/create_shortcodes/quotes.php:21
+msgid "Please specify some text"
+msgstr "S'il vous plaît entrez un texte"
+
+#: js/create_shortcodes/quotes.php:35
+msgid "Quotes:"
+msgstr "Citations:"
+
+#: js/create_shortcodes/quotes.php:39
+msgid "Quotes Color:"
+msgstr "Couleur de citations:"
+
+#: js/create_shortcodes/quotes.php:45
+#: js/create_shortcodes/testimonial.php:70
+msgid "Black"
+msgstr "Noir"
+
+#: js/create_shortcodes/tabbed.php:38
+#: js/create_shortcodes/tabbed.php:43
+msgid "Text Title here!"
+msgstr "Titre du texte ici!"
+
+#: js/create_shortcodes/tabbed.php:41
+#: js/create_shortcodes/tabbed.php:44
+msgid "Text Content here!"
+msgstr "Texte de contenu ici!"
+
+#: js/create_shortcodes/tabbed.php:91
+msgid "Color Tabbed:"
+msgstr "Couleur de las onglets"
+
+#: js/create_shortcodes/tabbed.php:118
+msgid "When using more than one tabded on the same page, you must label(identify) them by using an ID"
+msgstr "Lorsque vous utilisez plus d'un onglet sur ​​la même page, doit être identifié à l'aide d'un ID"
+
+#: js/create_shortcodes/tabbed.php:125
+#: js/create_shortcodes/tabbed.php:142
+#: js/create_shortcodes/tabbed.php:159
+#: js/create_shortcodes/tabbed.php:175
+#: js/create_shortcodes/tabbed.php:191
+#: js/create_shortcodes/tabbed.php:207
+msgid "Content"
+msgstr "Contenu"
+
+#: js/create_shortcodes/tabbed.php:129
+#: js/create_shortcodes/tabbed.php:146
+#: js/create_shortcodes/tabbed.php:163
+#: js/create_shortcodes/tabbed.php:179
+#: js/create_shortcodes/tabbed.php:195
+#: js/create_shortcodes/tabbed.php:211
+msgid "Title Tab:"
+msgstr "Titre Onglet:"
+
+#: js/create_shortcodes/testimonial.php:47
+msgid "Number of Testimonials"
+msgstr "Nombre de témoignages"
+
+#: js/create_shortcodes/testimonial.php:57
+msgid "Quote Style type"
+msgstr "Style de Citations"
+
+#: js/create_shortcodes/testimonial.php:67
+msgid "Quote Color"
+msgstr "Couleur de Citations"
+
+#: js/create_shortcodes/testimonial.php:72
+msgid "Craft"
+msgstr "Craft"
+
+#: js/create_shortcodes/toggled.php:24
+msgid "Title"
+msgstr "Titre"
+
+#: js/create_shortcodes/toggled.php:41
+msgid "Toggled:"
+msgstr "Contenu baisse:"
+
+#: js/create_shortcodes/toggled.php:45
+msgid "Toggled Color:"
+msgstr "Couleur contenu baisse:"
+
+#: js/create_shortcodes/toggled.php:59
+msgid "Size:"
+msgstr "Taille:"
+
+#: js/create_shortcodes/toggled.php:62
+msgid "Big"
+msgstr "Grand"
+
+#: js/create_shortcodes/toggled.php:63
+msgid "Medium"
+msgstr "Medium"
+
+#: js/create_shortcodes/toggled.php:64
+msgid "Small"
+msgstr "Petit"
+
+#: js/create_shortcodes/toggled.php:69
+msgid "* Title:"
+msgstr "* Titre:"
+
+#: js/create_shortcodes/toggled.php:73
+msgid "Toggled text:"
+msgstr "Texte contenu baisse:"
+
+#: js/create_shortcodes/tooltip.php:42
+msgid "Style Tooltip"
+msgstr "Style de tooltip"
+
+#: js/create_shortcodes/tooltip.php:54
+msgid "Text Tooltip:"
+msgstr "Texte de tooltip:"
+
+#: js/create_shortcodes/tooltip.php:58
+msgid "Content Tooltip:"
+msgstr "Contenu du tooltip:"
+
+#~ msgid "Preview Image:"
+#~ msgstr "Avant-première image:"
+
+#~ msgid "Url Image"
+#~ msgstr "Url de la image"
+
+#~ msgid "Width Image"
+#~ msgstr "Largeur de la image"
+
+#~ msgid ""
+#~ "If you want to place an image that is outside of your site use just "
+#~ "select the image and apply this shortcode."
+#~ msgstr ""
+#~ "Si vous souhaitez placer une image qui est en dehors de votre site en utilisant simplement "
+#~ "l'image et sélectionnez Appliquer ce shortcode."
+
+#~ msgid "Light Box Image:"
+#~ msgstr "Image du lightbox"
+
+#~ msgid "Line Style:"
+#~ msgstr "Style de ligne:"
+
+#~ msgid "Style:"
+#~ msgstr "Style:"
+
+#~ msgid "Dotted"
+#~ msgstr "En pointillé"
+
+#~ msgid "Faded"
+#~ msgstr "Opaque"
+
+#~ msgid "Line Color:"
+#~ msgstr "Couleur de ligne:"
+
+#~ msgid "Comments are closed"
+#~ msgstr "Les commentaires sont fermés"
+
+#~ msgid "Price:"
+#~ msgstr "Prix:"
+
+#, fuzzy
+#~ msgid "Gallery Name"
+#~ msgstr "Nom de galerie"
+
+#, fuzzy
+#~ msgid "Read More"
+#~ msgstr "Lire plus"
+
+#~ msgid "Tweet name"
+#~ msgstr "Nom du tweet"

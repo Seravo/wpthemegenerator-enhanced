@@ -1,0 +1,88 @@
+body #main_settings,body #main_settings h1, body #main_settings h2, body #main_settings h3, body #main_settings h4, body #main_settings h5, body #main_settings h6,body #main_settings ul a{
+font-family: 'Open Sans', sans-serif !important;
+}
+body #main_settings h3{
+	background:#FEFEFE;
+	font-size:18px !important;
+	border-radius:3px 0 0 0;
+	padding:9px 0;
+	color:#8a8a8a;
+}
+body #main_settings h2,.title_palette_colors{
+	color:#FEFEFE;
+	font-size:16px ;	
+	padding:9px 0;
+	margin-top:0;
+}
+#main_settings span.title_palette_colors{
+	background:#FEFEFE;
+	color:#8a8a8a;
+	text-tranform:uppercase;
+}
+body #main_settings div.panel_middle{
+	border-left:1px solid #e4e4e4;
+	border-right:1px solid #e4e4e4;
+}
+body #main_settings .set_lay_page ul{
+	margin:5px 0;
+
+}
+body #main_settings .set_lay_page ul li{
+	padding-left:15px;
+}
+body #main_settings ul a, body #main_settings .set_lay_page ul li label,body #register label, body #login label,body .set_panel label,body #main_settings span,.option_responsive small, .option_no-responsive small{
+	color:#FEFEFE;
+}
+body .items_layout a, body .sub_panel ul a{
+	background:none;
+}
+body #main_settings ul.items_layout li a[rel^="option"]{
+	line-height:15px;
+	padding:6px 16px;
+}
+body .items_layout i{
+	position:absolute;
+	top:8px;
+	left:3px;
+	font-size:23px;
+	color:#fff;
+}
+body #main_settings ul li a:hover, body #main_settings ul li a.current_option{
+	background:#4993bd;
+}
+body #login_aff  .tg_fg_password:hover{
+	font-weight:bold;
+	color:#FEFEFE;
+}
+
+.set_panel, .sub_panel,body #main_settings div.panel_middle,body #register, body #login{
+	background:#58a8d6;
+}
+
+.items_layout li, .sub_panel ul li[style]{
+	border-top: 1px solid #f6f6f6;
+}
+body .panel_footer{
+	height:1px;
+	background:#f6f6f6;
+	border-bottom:1px solid #e4e4e4;
+	border-radius:1px 0 0 0;
+}
+/*register area*/
+body ul.tabs li{
+	background:#EEE !important;
+}
+body ul.tabs li.active{
+	background:#FEFEFE !important;
+}
+body #main_settings  ul.tabs li a{
+	font-size:15px!important;
+	color:#8a8a8a;
+}
+.lay_shadows .container_fixed, .lay_patterns .container_fixed, .lay_divisors .container_fixed, .text_align_position, .lay_align_text .container_fixed, .lay_comments_align .comments_position, .boxescss_choose{
+	background:#4993bd;
+}
+body div.tooltip_first-time{
+	background:rgba(73, 147, 189,.94);
+}
+

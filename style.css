@@ -1,0 +1,168 @@
+@charset "utf-8";
+/*
+Theme Name: Lahjakuva-8
+Theme URI: http://www.WpThemeGenerator.com/
+Description:  A universal theme with more than 1000 different designs and options to combine and a powerful framework.
+Version: 1.0 
+Author: WpThemeGenerator
+Author URI:www.WpThemeGenerator.com
+Tags: black, blue, white, two-columns, custom-colors, custom-background
+General comments and license statement: we provide this template as it is
+License: GNU General Public License
+License URI: license.txt
+*/
+/* CSS Document */
+@import url(css/reset.css);
+@import url(css/sliders.css);
+@import url(css/fonts.css);
+@import url(css/base_template.css);
+@import url(css/bootstrap.css);
+current_boxcss_widget{boxcss_8}current_boxcss_post{boxcss_2}loader{true}no_slider{false}.fullheader_menu_bar{height:21px;}.anythingSlider span.arrow a{background-image:url(graphic_elements/slider/sld_004_arr.png); width:27px; height:46px;}div.anythingSlider .back{top:146px; left:-20px;}div.anythingSlider .forward{top:146px; right:-20px;}.slider_area{background-image:none; width:900px; height:366px; padding:10px 10px 0px; max-width:98%;}.header_shine{background-image:none;}.container_menu ul li a{line-height:55px; color:rgb(71, 71, 71); font-size:14px; font-family:'Trebuchet MS, Arial', Helvetica, sans;}.container_menu ul li.back .left{background-image:url(graphic_elements/menu/menu_143_current.png); height:45px; margin-right:0px;}.container_menu ul li.back{left: -4px; width: 106px; overflow: hidden; top: 3px; background-image: url(graphic_elements/menu/menu_143_current.png); height: 45px;}.search_area{background-image:url(graphic_elements/search/search_112.png); height:49px; width:228px; padding:0px 0px 3px 5px; margin:14px 0px 0px; float:right; text-align:center; display:inline-block;}.search_area input[type="text"]{height:49px; float:left; width:162px; color:rgb(89, 89, 89);}.search_area input[type="submit"]{height:49px; float:left; width:45px;}.container_menu{background-image:url(graphic_elements/menu/menu_143.png); height:57px; display:block;}.post_author{background-image:url(graphic_elements/icon-post/iconpost_005.png); height:14px; line-height:14px; background-position:0px 0px;}.post_date{background-image:url(graphic_elements/icon-post/iconpost_005.png); height:14px; line-height:14px; background-position:0px -14px;}.post_categ{background-image:url(graphic_elements/icon-post/iconpost_005.png); height:14px; line-height:14px; background-position:0px -28px;}.boxes{margin-bottom:0px; padding:20px; width:260px;}.wrapper_slider .carousel-inner{background:rgb(255, 255, 255) none repeat scroll 0% 0% / auto padding-box border-box}.container_widgets_pieces{background-image: none;}.widget_top_left{background-image: none;}.widget_top_center{background-image: none;}.widget_top_right{background-image: none;}.widget_middle_left{background-image: none;}.widget_middle_right{background-image: none;}.widget_bottom_left{background-image: none;}.widget_bottom_center{background-image: none;}.widget_bottom_right{background-image: none;}.widget_token_right{background-image: none;}.widget_token_left{background-image: none;}.widget_token_bottom{background-image: none; height: 0px;}.blog_boxes{margin-bottom:0px; width:600px;}.container_posts_pieces{background-image: none;}.post_token_right{background-image: none;}.post_token_left{background-image: none;}.post_top_left{background-image: none;}.post_top_center{background-image: none;}.post_top_right{background-image: none;}.post_middle_left{background-image: none;}.post_middle_right{background-image: none;}.post_bottom_left{background-image: none;}.post_bottom_center{background-image: none;}.post_bottom_right{background-image: none;}.post_token_bottom{background-image: none; height: 0px;}.more-link{font-size: 16px; text-decoration: none; padding: 0px 15px; line-height: 46px; height: 47px; background-image: url(graphic_elements/read-more/readmore_040_ct.png); margin: 20px 8px 0px; color: rgb(80, 86, 86);}.more-link_left{background-image: url(graphic_elements/read-more/readmore_040_ss.png); width: 8px; left: -8px;}.more-link_right{background-image: url(graphic_elements/read-more/readmore_040_ss.png); width: 8px; right: -8px;}.header_shadow{display:block; background-image:none; background-repeat:repeat no-repeat;}.comments_link{display:block; font-size:22px; color:rgb(255, 255, 255); background-image:url(graphic_elements/comment-link/cmmlink_022.png); width:65px; height:58px; line-height:47px; left:auto; background-position:100% 0%;}.head_post{padding:0px 75px 20px 0px; display:block;}.footer_separate{display:block; background-image:url(graphic_elements/divisors/divisor_074.png); height:9px; bottom:-5px;}.icon_socials li.ic_rss{background-image: url(graphic_elements/social-network/setpack_social_071.png); height: 40px; width: 39px; background-position: -78px 50%;}.icon_socials li.ic_mail{background-image: url(graphic_elements/social-network/setpack_social_071.png); height: 40px; width: 39px; background-position: -117px 50%;}.icon_socials li.ic_linkedin{background-image: url(graphic_elements/social-network/setpack_social_071.png); height: 40px; width: 39px; background-position: -195px 50%;}.icon_socials li.ic_rssmail{background-image: url(graphic_elements/social-network/setpack_social_071.png); height: 40px; width: 39px; background-position: -234px 50%;}.icon_socials li.ic_skype{background-image: url(graphic_elements/social-network/setpack_social_071.png); height: 40px; width: 39px; background-position: -273px 50%;}ul.icon_socials{margin: 20px 10px 0px; float: right; text-align: center;}.nivo-prevNav{background-image:url(graphic_elements/slider/sld_004_arr.png); width:27px; height:46px; top:162px; left:-20px;}.nivo-nextNav{background-image:url(graphic_elements/slider/sld_004_arr.png); width:27px; height:46px; top:162px; right:-20px;}slider_bkcolor{rgb(32, 32, 32)}.post_commts{display:none; background-image:url(graphic_elements/icon-post/iconpost_005.png); height:14px; line-height:14px; background-position:0px -42px;}.body_theme h1{font-family:'Yanone Kaffeesatz', sans-serif; font-size:38px;}.body_theme h2{font-family:'Yanone Kaffeesatz', sans-serif; font-size:34px;}.body_theme h3{font-family:'Yanone Kaffeesatz', sans-serif; font-size:30px;}theme_change{true}current_lay{layout_1}wrap_bk_color{rgba(0, 0, 0, 0)}wrap_content_pattern{url(graphic_elements/pattern/pattern_223.png);}.body_theme h4{font-family:'Yanone Kaffeesatz', sans-serif; font-size:26px;}.body_theme h5{font-family:'Yanone Kaffeesatz', sans-serif; font-size:22px;}.body_theme h6{font-family:'Yanone Kaffeesatz', sans-serif; font-size:18px;}pattern_body_lay{graphic_elements/pattern/pattern_059.png}.header_menu_bar{background-image:url(graphic_elements/optional-menu/opt_menu_010.png); height:25px; background-position:initial initial; background-repeat:initial initial;}logo{graphic_elements/logo/logooJC0o7_001.png}.post_content{background-image: none;}.widget_content{background-image: none;}.body_theme{font-family:'Cabin Condensed', sans-serif; font-size:15px;}menu_back{'top':3, 'background-image': 'url(graphic_elements/menu/menu_143_current.png)', 'height': 45;}#content{padding:40px 0px; width:960px; pointer-events:all;}elem_test2{hide}elem_.container_menu{show}elem_.search_area{hide}elem_ul.icon_socials{show}type_current_logo{image}id_homepage{3403}cat_homepage{Uncategorized}.container_menu ul ul{left: -17px; top: 47.5px; background-color: rgba(187, 187, 187, 0.952941); display: none;}text_logo_font_size{0px}text_logo{My Company}text_logo_effect{logo_effect_normal}text_logo_ffamily{'News Cycle', sans-serif}elem_.container_menu,.navbar{margin-bottom:-18px;}.clipart{background-image:url(graphic_elements/clipart/clipart_016.png); background-position:50% 100%;}.header_pattern{display:block; background-image:url(graphic_elements/pattern/pattern_059.png);}body{width: 100%; border: 0px; background-color: rgb(203, 202, 199);}#header{text-align:center; max-width:960px; padding:23px 0px; width:auto; pointer-events:all;}.header_separate{display:block; background-image:url(graphic_elements/divisors/divisor_074.png); height:9px; bottom:-5px;}.wrapper_slider{height:auto; padding:20px 0px; position:relative;}.slider_pattern{display:block; background-image:url(graphic_elements/pattern/pattern_223.png);}.content_pattern{display:block; background-image:url(graphic_elements/pattern/pattern_223.png);}content_pattern_wka{display:block; background-image:url(graphic_elements/pattern/pattern_223.png); background-position:initial initial; background-repeat:initial initial;}sldfrm{tg-border-26}.icon_socials li.ic_facebook{background-image: url(graphic_elements/social-network/setpack_social_071.png); height: 40px; width: 39px; background-position: 0px 50%;}.icon_socials li.ic_twitter{background-image: url(graphic_elements/social-network/setpack_social_071.png); height: 40px; width: 39px; background-position: -39px 50%;}.icon_socials li.ic_plus{background-image: url(graphic_elements/social-network/setpack_social_071.png); height: 40px; width: 39px; background-position: -156px 50%;}
+div.wrapper_slider{display: block;}
+
+
+
+/*** VIILAUKSET ***/
+
+body .body_theme {
+font-family: 'pt sans narrow';
+}
+
+body .body_theme h1, .body_theme h2, .body_theme h3, .body_theme h4, .body_theme h5, .body_theme h6 {
+font-family: pt sans narrow;
+text-transform: none;
+}
+
+.wrap_content_middle {
+margin-top: -30px;
+}
+
+.post_content {
+padding: 0px 10px 20px 10px;
+}
+
+.container_menu ul li a {
+font-size: 20px;
+font-family: 'pt sans narrow';
+margin-top: -3px;
+}
+
+.container_menu ul li a:hover {
+color: red;
+text-decoration: none;
+
+}
+.post_content a:hover {
+  text-decoration: underline;
+
+}
+.post_content a {
+color: red;
+text-decoration: none;
+}
+
+.wp-caption p.wp-caption-text {
+font-size: 14px;
+line-height: 5px;
+padding: 0px;
+}
+
+.woocommerce div.product .product_title, .woocommerce-page div.product .product_title, .woocommerce #content div.product .product_title, .woocommerce-page #content div.product .product_title {
+font-size: 17px;
+color: black;
+}
+
+.woocommerce div.product span.price, .woocommerce-page div.product span.price, .woocommerce #content div.product span.price, .woocommerce-page #content div.product span.price, .woocommerce div.product p.price, .woocommerce-page div.product p.price, .woocommerce #content div.product p.price, .woocommerce-page #content div.product p.price {
+color: #000000;
+font-size: 17px;
+}
+
+.woocommerce div.product .woocommerce-tabs ul.tabs, .woocommerce #content div.product .woocommerce-tabs ul.tabs, .woocommerce-page div.product .woocommerce-tabs ul.tabs, .woocommerce-page #content div.product .woocommerce-tabs ul.tabs {
+display: none;
+}
+
+.widget_content {
+text-align: left;
+}
+
+.widget_content ul li {
+margin-left: -5px;
+}
+
+.boxcss_2{
+    margin-left: 90px;
+}
+
+.sidebar_top {
+clear: both;
+overflow: hidden;
+margin: -20px 0px 20px 0px;
+padding: 0px 0px 0px 0px;
+}
+
+.container_widgets_pieces {
+padding: 0 0px;
+margin: 0 0 0px;
+position: relative;
+}
+
+.tg_shooping_cart {
+visibility: hidden;
+}
+
+div#HEADERTEKSTI {
+font-size: 30px;
+color: red;
+margin-top: -50px;
+margin-bottom: 30px;
+margin-left: 220px;
+text-align: left;
+}
+
+ul.icon_socials {
+margin: 0px;
+float: right;
+text-align: center;
+padding-bottom: 60px;
+}
+
+.footer_info {
+width: 100%;
+float: center;
+margin-left: 330px;
+margin-top: -30px;
+}
+
+html 
+{
+overflow: -moz-scrollbars-vertical;
+overflow: scroll;
+}
+
+.footer_info a:hover {
+text-decoration: none;
+}
+
+.wp-caption p.wp-caption-text {
+font-size: 17px;
+line-height: 16px;
+padding: 0px;
+text-align: left;
+}
+
+#fancybox-title {
+	font-family: pt sans narrow;
+	font-size: 20px;
+	z-index: 1102;
+}
+
+.fancybox-title-inside {
+	padding-bottom: 10px;
+	text-align: center;
+	color: white;
+	background: red;
+	position: relative;
+}
+
+
+

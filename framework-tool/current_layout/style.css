@@ -1,0 +1,54 @@
+@charset "utf-8";
+/*
+Theme Name: Theme
+Theme URI: http://www.wordpressthemeshock.com/
+Description: The full Template option for WordPress.
+Author: Themeshock.com
+Version: 1.0 
+Tags: black, blue, white, two-columns, custom-colors, custom-background.
+General comments and license statement: we provide this template as it is.
+*/
+
+/* CSS Document */
+@import url(css/reset.css);
+@import url(css/widgets.css);
+@import url(css/anythingslider.css);
+@import url(css/colorbox.css);
+@import url(css/shortcodes.css);
+@import url(css/menu.css);
+@import url(css/coin-slider.css);
+@import url(css/accordion.css);
+@import url(css/fonts.css);
+@import url(css/base_template.css);
+
+slider_bkcolor{rgba(0, 0, 0, 0)}
+current_lay{layout_7}
+theme_change{true}
+body{background-image: url(graphic_elements/pattern/pattern_047.png); }
+.clipart{background-position: 50% 0%; }
+.wrapper_header{background-color: transparent; }
+#header{padding-top: 23px; padding-right: 0px; padding-bottom: 23px; padding-left: 0px; }
+.wrap_lay2{none}
+.wrap_lay3{none}
+.wrap_lay4{none}
+.wrap_lay5{none}
+.wrap_lay6{none}
+.wrap_lay7{background-color: rgba(0, 0, 0, 0); background-image: url(graphic_elements/pattern/pattern_011.png); }
+.slider_shadow{display: none; }
+.footer_shadow{display: none; }
+.footer_pattern{display: none; }
+.header_pattern{display: none; }
+.header_separate{display: none; }
+.slider_separate{none}
+.content_shadow{display: none; }
+.content_separate{display: none; }
+.wrapper_slider{background-color: transparent; }
+.slider_pattern{display: none; }
+.container_menu{margin-top: 0px; margin-right: auto; margin-bottom: 0px; margin-left: auto; }
+.wrapper_content{background-color: transparent; }
+.content_pattern{display: none; }
+.wrapper_header_tmp{background-color: transparent; }
+.wrapper_content_tmp{background-color: transparent; }
+.wrapper_slider_tmp{background-color: transparent; }
+.wrapper_footer{none}
+body_tmp{background-image: url(graphic_elements/pattern/pattern_047.png); }
